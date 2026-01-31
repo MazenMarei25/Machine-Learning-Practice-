@@ -1,1 +1,5 @@
-
+Models : KNN, Logistic, Poly Logistic, SVM , Poly SVM, Naive-Bayes , Random Forest and XG-Boost
+Dataset : Machine Failure prediction 
+Results : 
+Poly SVM Highest True Negative detection 98% , True Positive Detection : 60%. F1 Scores : Negatives (86%), Positives (79%)
+Random Forest Most Balanced F1 scores True Negative 87% , True Positive 68%. F1 Scores : Negatives (87%), Positives (68%)
