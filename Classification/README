@@ -1,4 +1,0 @@
-Models used : KNN, Naive-Bayes, Logistic Regression, Polynomial Logistic Regression, SVM, Random Forest, XGboost 
-Dataset : Machine Failure prediction 
-Result : RF provided the most balanced F1 score between the positive and negative predictions (80% and 84% repectively) with True Negatives at 87% and True Positives at 68%
-while polynomial SVM scored the highest detection of True Negatives at 98% with True positives at 60% and F1 score between the positive and negative predictions at 86% and 79% repectively
