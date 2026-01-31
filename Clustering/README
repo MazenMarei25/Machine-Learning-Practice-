@@ -1,1 +1,3 @@
-
+Models : K-means, Hierarchical
+Dataset : Irrigation Machine Sensor Data (20 sensors)
+Results : Difficult to interperet without domain knowladge, however 5 clusters were found using elbow method and PCA reduced number of sensors from 20 to 4 
