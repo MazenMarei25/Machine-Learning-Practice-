@@ -1,1 +1,3 @@
-
+Models used : K-Means Clustering , Hierarchical and PCA-Kmeans 
+Dataset : Irrigation Machine Sensor data (20) 
+Result : Hard to interpret the clusters without domain knowladge however Elbow method narrowed down 5 distinct clusters and PCA reduced the complexity from 20 sensor readings to only 4 principal readings 
