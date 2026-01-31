@@ -1,1 +1,3 @@
-
+Models used : Polynomial Regression , Random Forest Regression (RFR)
+Dataset : Robot Inverse Kinematics predictor 
+Result : Polynomail Regression of degree 8 beat RFR scoring an R2 of 98%
